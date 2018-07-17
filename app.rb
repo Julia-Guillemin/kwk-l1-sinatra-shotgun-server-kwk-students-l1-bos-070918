@@ -15,4 +15,4 @@ end
 
 # shotgun will start your sanatra aplication and alow you to make changes then refresh to see an updated browser(edits in real time)
 
-# roots are something you just dd dient see stupo
+# roots wite get name it then right what you whant to out put
