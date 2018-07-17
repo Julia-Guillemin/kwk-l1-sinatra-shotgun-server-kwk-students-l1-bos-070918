@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do 
-    "Canada's giant duck is whats keeping me alive!!!! it is even funnier that it pop and barkruped some of Canada. Sorry Justin"
+    "Canada's giant duck is whats keeping me alive!!!! it is even funnier that it pop and barkruped some of Canada.! Sorry Justin."
   end
 
 end
